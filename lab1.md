@@ -103,16 +103,8 @@ DistroTest.net is a project that allows you to test Linux/BSD distributions on y
 
 Locate the terminal application in the distribution you started and type the following command: `uname -a` Take a screenshot of the browser window showing the terminal application open.
 
-**Place Screenshot here**
+**![Pic](port.png)**
 
 Stop the machine and take a screenshot of the browser window showing that the machine has been stopped.
 
-**Place Screenshot here**
-
-
----
-# What to submit? (Delete this section before submitting)
-* Submit the URL of this file in your Github repository. 
-* Convert this markdown file as PDF and submit it in with the URL.
-* Each submission is worth 50 Points. If you only submit 1 you will get half the grade.
----
+**![pic](down.png)**
